@@ -1,7 +1,7 @@
 # votingapp
 Free Code Camp's back end certificate - full stack Javascript app
 
-<h3>User Stories<h3>
+<h3>User Stories</h3>
 <ul>
 <li>User Story: As an authenticated user, I can keep my polls and come back later to access them.</li>
 <li>User Story: As an authenticated user, I can share my polls with my friends.</li>
